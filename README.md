@@ -1,2 +1,2 @@
-# Python_game
-A Shooting ,Survival game mad on Pygame-ce and Tiled maps .
+# VampirePython_game
+A Vampire Shooting , Survival game made on Pygame-ce and Tiled maps .
